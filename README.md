@@ -1,4 +1,4 @@
-# Computer Characteristics Data Analysis
+![DA 5](https://github.com/user-attachments/assets/0526539f-0589-4603-af23-a0703ce316ff)# Computer Characteristics Data Analysis
 
 ## Overview
 
@@ -11,12 +11,23 @@ The **Computer Characteristics Data Analysis** project focuses on analyzing and 
   
 - **Visualizations:**
   - Generated insightful visualizations using **matplotlib** to interpret data trends and highlight key findings.
+  - ![DA 1](https://github.com/user-attachments/assets/136db438-504f-42df-b1ff-d557b1a801a9)
+  - ![DA 2](https://github.com/user-attachments/assets/c6a0899a-b963-4147-a2b0-0d5aee9a3c0f)
+
+
 
 - **Principal Component Analysis (PCA):**
   - Utilized PCA to understand variable correlation structures and reduce the dimensionality of the dataset while retaining essential information.
+  - ![DA 3](https://github.com/user-attachments/assets/3dfaaa65-9ea6-4114-96dd-392e6fb8e65f)
+  - ![DA 4](https://github.com/user-attachments/assets/690cc7e7-ef2f-4453-ae1e-51a9d94ee2d4)
+
+
 
 - **K-Means Clustering:**
   - Implemented K-Means Clustering to group data into clusters based on similarities, followed by PCA to further analyze and identify each cluster's unique characteristics.
+  - ![Uploading DA 5.png…]()
+
+
 
 ## Technologies Used
 
