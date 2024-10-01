@@ -66,12 +66,12 @@ The **Computer Characteristics Data Analysis** project focuses on analyzing and 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/computer-characteristics-data-analysis.git
+   git clone (https://github.com/aziz00legend/FSpar-kLaptop-Insights.git)
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd computer-characteristics-data-analysis
+   cd FSpar-kLaptop-Insights
    ```
 
 3. **Run the Analysis:**
