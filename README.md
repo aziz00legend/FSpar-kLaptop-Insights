@@ -1,4 +1,4 @@
-![DA 5](https://github.com/user-attachments/assets/0526539f-0589-4603-af23-a0703ce316ff)# Computer Characteristics Data Analysis
+# Computer Characteristics Data Analysis
 
 ## Overview
 
@@ -25,7 +25,7 @@ The **Computer Characteristics Data Analysis** project focuses on analyzing and 
 
 - **K-Means Clustering:**
   - Implemented K-Means Clustering to group data into clusters based on similarities, followed by PCA to further analyze and identify each cluster's unique characteristics.
-  - ![Uploading DA 5.png…]()
+  - ![DA 5](https://github.com/user-attachments/assets/a39f16a5-d196-4074-9906-227ab6497874)
 
 
 
